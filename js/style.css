@@ -1,0 +1,27 @@
+.mdl-layout {
+	/*align-items: center;*/
+  justify-content: center;
+}
+/*
+.mdl-layout__container {
+    position: absolute;
+    width: 100%;
+		height: 100vh;
+}
+*/
+.img-circle {
+    border-radius: 50%;
+		width: 150px;
+}
+
+.action-button {
+ 	float: right;
+    padding-right: 50px;
+
+}
+.mdl-data-table th {
+	font-size: 14px;
+}
+.mdl-data-table td {
+font-size: 14px;
+}
