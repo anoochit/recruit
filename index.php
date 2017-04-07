@@ -25,7 +25,7 @@ $result=get_member_and_position();
 ?>
 <!-- start body content -->
 <div class="mdl-grid">
-<div class="mdl-cell mdl-cell--4-col">
+<div class="mdl-cell mdl-cell--12-col">
 <table class="mdl-data-table mdl-js-data-table ">
   <thead>
     <tr>
